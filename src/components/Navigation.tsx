@@ -17,7 +17,7 @@ import {
 import { styled } from '@mui/material/styles';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
-import Logo from '../logo.png';
+import Logo from '../darkThemeLogo.png';
 
 const GlassAppBar = styled(AppBar)(() => ({
   background: 'rgba(0, 0, 0, 0.8)',

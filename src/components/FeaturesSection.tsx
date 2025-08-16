@@ -120,7 +120,7 @@ const FeaturesSection: React.FC = () => {
                 },
               }}
             >
-              Our <GradientText component="span" variant="h2">Features</GradientText>
+              Why <GradientText component="span" variant="h2">Us?</GradientText>
             </Typography>
             <Typography
               variant="h5"

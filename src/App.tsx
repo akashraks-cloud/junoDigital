@@ -25,9 +25,10 @@ function App() {
         <Navigation />
         <HeroSection />
         <FeaturesSection />
+        <AboutSection />
         <TestimonialsSection />
         <PricingSection />
-        <AboutSection />
+       
         <ContactSection />
         <Footer />
       </ThemeProvider>

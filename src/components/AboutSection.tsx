@@ -139,7 +139,7 @@ const AboutSection: React.FC = () => {
             }}
           >
             <Typography variant="h2">
-              About <GradientText component="span" variant="h2">Us</GradientText>
+              Who are <GradientText component="span" variant="h2">we?</GradientText>
             </Typography>
 
             <Typography

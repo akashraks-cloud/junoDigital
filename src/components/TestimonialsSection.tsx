@@ -121,7 +121,7 @@ const TestimonialsSection: React.FC = () => {
                 },
               }}
             >
-              Used by the best.
+              Success Stories
             </Typography>
             <Typography
               variant="h5"
